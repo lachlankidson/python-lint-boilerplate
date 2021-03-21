@@ -5,7 +5,7 @@ Boilerplate / PoC automated linting for python projects using [doit](https://git
 Python 3.9+, or 3.5+ if you're prepared to adjust some of the typings.
 
 ## Installation
-### (Optional) Create and activate [virtual environment](https://docs.python.org/3/library/venv.html).
+### (Optional) Create and activate a [virtual environment](https://docs.python.org/3/library/venv.html).
 ```shell
 python -m venv venv
 ```
